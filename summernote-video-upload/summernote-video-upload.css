@@ -1,0 +1,22 @@
+.note-editor iframe {
+  max-width: 100%;
+}
+
+.note-editor video {
+  max-width: 100%;
+}
+
+.note-group-select-from-files small {
+  display: block;
+  margin-top: 5px;
+}
+
+.note-help-block {
+  display: none;
+  margin-top: 5px;
+  color: crimson;
+}
+
+.note-help-block.active {
+  display: block;
+}
